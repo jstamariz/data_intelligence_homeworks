@@ -1,0 +1,1 @@
+Este es un ejemplo de texto que contiene algunos caracteres especiales, números y palabras en mayúsculas. Queremos preprocesar este texto para que esté listo para el análisis de texto en un proyecto de Procesamiento de Lenguaje Natural (NLP). 
